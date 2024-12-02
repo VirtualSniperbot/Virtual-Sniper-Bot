@@ -57,8 +57,6 @@ This bot is intended for educational and experimental purposes only. Users are r
 
 ## Connect
 For updates and support, connect with us:
-- Website: https://virtuals.io
-- Twitter: https://twitter.com/VirtualSniperBot
 - Telegram: https://t.me/VirtualSniperBot
 
 Enjoy sniping with VIRTUALS-SNIPER-BOT!
